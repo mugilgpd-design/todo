@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is test file and i add some codes later and today sample
+=======
+this is test file and i add some codes later , this is important file
+>>>>>>> 07b83070f1dd087405c5d1432ecf0c81dcacc0e4
